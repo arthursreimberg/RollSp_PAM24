@@ -34,6 +34,6 @@ https://github.com/arthursreimberg/RollSp_PAM24/wiki/Desenvolvimento-da-aplicaç
 <br>
 https://github.com/arthursreimberg/RollSp_PAM24/wiki/Pesquisa-e-Justificativa-de-Relevância-do-Tema
 <br>
-https://github.com/arthursreimberg/RollSp_PAM24/wiki/Apresentação-do-App
+https://github.com/arthursreimberg/RollSp_PAM24/wiki/Apresentação-do-App-(atualizado)
 <br>
 https://github.com/arthursreimberg/RollSp_PAM24/wiki/Atualizações-e-Erros
