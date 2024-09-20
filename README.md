@@ -28,14 +28,3 @@
 <br>
 
 <br>
-https://github.com/Gilson-Gomes-Da-Silva/RollSP/wiki/Descri%C3%A7%C3%A3o-das-Telas,-Funcionalidades-e-Recursos
-<br>
-https://github.com/Gilson-Gomes-Da-Silva/RollSP/wiki/Desenvolvimento-da-aplica%C3%A7%C3%A3o
-<br>
-https://github.com/Gilson-Gomes-Da-Silva/RollSP/wiki/Pesquisa-e-Justificativa-de-Relev%C3%A2ncia-do-Tema](https://github.com/arthursreimberg/RollSp_PAM24/wiki
-<br>
-https://github.com/arthursreimberg/RollSp_PAM24/wiki/Demonstração-da-aplicação,-Descrição-das-Telas,-Funcionalidades-e-Recursos
-<br>
-https://github.com/arthursreimberg/RollSp_PAM24/wiki/Desenvolvimento-da-aplicação
-<br>
-https://github.com/arthursreimberg/RollSp_PAM24/wiki/Pesquisa-e-Justificativa-de-Relevância-do-Tema)
