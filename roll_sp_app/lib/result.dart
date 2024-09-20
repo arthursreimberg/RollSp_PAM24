@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:roll_sp_app/main.dart';
 import 'package:roll_sp_app/acervo.dart';
 import 'package:roll_sp_app/quiz.dart';
-import 'package:roll_sp_app/resultC.dart';
+import 'package:roll_sp_app/score.dart';
 
 void result() {
   runApp(const resultado());
