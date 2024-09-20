@@ -26,5 +26,10 @@
 <h3>lista de links para os tópicos da wiki</h3>
 
 <br>
-
+https://github.com/arthursreimberg/RollSp_PAM24/wiki
 <br>
+https://github.com/arthursreimberg/RollSp_PAM24/wiki/Demonstração-da-aplicação,-Descrição-das-Telas,-Funcionalidades-e-Recursos
+<br>
+https://github.com/arthursreimberg/RollSp_PAM24/wiki/Desenvolvimento-da-aplicação
+<br>
+https://github.com/arthursreimberg/RollSp_PAM24/wiki/Pesquisa-e-Justificativa-de-Relevância-do-Tema
